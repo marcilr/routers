@@ -1,0 +1,13 @@
+routers.txt
+Created Mon Feb 19 10:40:42 AKST 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Routers
+
+
+Links
+=====
+Router (computing)
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/Router_(computing)
