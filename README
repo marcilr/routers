@@ -5,6 +5,16 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+manifest
+  Manifest for resync application
+
 routers.txt
   Routers
   https://en.wikipedia.org/wiki/Router_(computing)
+
+ubiquiti/
+  Ubiquiti Networks is an American technology company started in 2005.
+  Based in San Jose, California Ubiquiti manufactures wireless data
+  communication products for enterprise and wireless broadband.
+  https://www.ubnt.com/
+	
