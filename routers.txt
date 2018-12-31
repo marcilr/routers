@@ -6,6 +6,13 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 Routers
 
 
+Mon Dec 31 13:53:22 AST 2018
+============================
+Dom Kimbell at GCI recommended:
+o Google WiFi
+o Samsung Mesh
+
+
 Links
 =====
 Router (computing)
