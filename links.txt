@@ -1,0 +1,40 @@
+links.txt
+Created Mon Dec 31 09:31:57 AST 2018
+by Raymond E. Marcil <ray.marcil@alaska.gov>
+
+
+Router related links
+
+
+Links
+=====
+Asus RT-AC5300 AC5300 DD-WRT FlashRouter
+price: $499.99
+https://www.amazon.com/Tri-Band-Supporting-AiProtection-Accelerator-RT-AC5300/dp/B0167HG1V6/ref=sr_1_3?ie=UTF8&qid=1546296756&sr=8-3&keywords=asus+rt-ac5300+wireless+ac5300
+
+Google WiFi
+https://store.google.com/us/product/google_wifi?hl=en-US
+
+Google WiFi system, 3-Pack - Router replacement for whole home coverage (NLS-1304-25)
+by Google
+price: $249.00 (amazon - Dec 31, 2018)
+https://www.amazon.com/Google-WiFi-system-3-Pack-replacement/dp/B01MAW2294/ref=asc_df_B01MAW2294/?tag=hyprod-20&linkCode=df0&hvadid=198076677096&hvpos=1o1&hvnetw=g&hvrand=7708451047751313003&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9060447&hvtargid=aud-466346483690:pla-351124365817&psc=1
+
+Linksys WRT3200ACM AC3200 DD-WRT FlashRouter
+o Great For Large Homes
+o Perfect For 10+ Devices
+o Works With All ISPs & Supported VPNs
+o Compatible Worldwide
+o Plug n Play Setup Available More Info
+price: $349.99
+https://www.flashrouters.com/routers/linksys-wrt3200acm-ddwrt-router
+
+
+Samsung SmartThings Wifi Mesh Router Range Extender
+SmartThings Hub Functionality Whole-Home WiFi Coverage -
+Zigbee, Z-Wave, Cloud to Cloud Protocols - White (3 Pack) - ET-WV525KWEGUS
+https://www.amazon.com/Samsung-SmartThings-Functionality-Whole-Home-WV525KWEGUS/dp/B07FCQ726C/ref=sr_1_2?ie=UTF8&qid=1546295295&sr=8-2&keywords=samsung+mesh
+
+Samsung SmartThings Wifi Mesh Router Review: Small and Smart
+by BRIAN NADEL Nov 15, 2018, 1:42 PM
+https://www.tomsguide.com/us/samsung-smartthings-wifi-mesh-router,review-5934.html
