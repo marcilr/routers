@@ -23,10 +23,10 @@
 
 
 # dd-wrt open source firmware
-ssh://git@github.com/marcilr/dd-wrt    dd-wrt
+ssh://git@github.com/marcilr/dd-wrt     dd-wrt
 
 # Linksys wireless routers
-ssh://git@github.com/marcilr/linksys   linksys
+ssh://git@github.com/marcilr/linksys    linksys
 
 # Ubiquiti
 ssh://git@github.com/marcilr/ubiquiti   ubiquiti
